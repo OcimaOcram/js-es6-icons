@@ -4,8 +4,6 @@
     box-sizing: border-box;
 }
 
-
-
 .scatola {
     background-color: aqua;
     height: 200px;
@@ -18,4 +16,16 @@
     margin: auto;
     display: flex;
     flex-wrap: wrap;
+}
+
+.blue {
+    color: blue;
+}
+
+.orange {
+    color: orange;
+}
+
+.green {
+    color: green;
 }
